@@ -1,5 +1,6 @@
 # MimeBot
 Простой юзербот для Telegram.
+https://github.com/figureteam/MimeBot/
 # Установка
 ## Требования
 - Python 3.11 (и выше)
